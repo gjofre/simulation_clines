@@ -1,0 +1,4 @@
+name	Chromosome	position	Dominant Allele	Dominant Allele Value	Recessive Allele	Recessive Allele Value Mode Dominant Freq Pop1 Dominant Freq Pop2
+chr3_12529400	3	12529400	B	1	b	2	Additive	1.00	0.00
+chr7_13300600	7	13300600	C	4	c	8	Additive	1.00	0.00
+chr10_500000	10	500000	S	1	s	0	Hemizygous	0.50	0.50

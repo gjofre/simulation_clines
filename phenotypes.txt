@@ -1,0 +1,6 @@
+Phenotypes	Formula
+Trait0	chr3_12529400
+Fitness0	s=0, if(chr3_12529400==3,1-s,(s=0, if(chr3_12529400==2,1-s,1)))
+Trait1	chr7_13300600
+Fitness1	s=0, if(chr7_13300600==12,1-s,(s=0, if(chr7_13300600==16,1-s,1)))
+Sex	chr10_500000
