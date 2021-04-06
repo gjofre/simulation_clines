@@ -35,7 +35,7 @@ perl /Volumes/Gaston_3/hzar_simulations/drift/transpose.pl temp.txt > temp2.txt
 cat temp2.txt mean_t.txt > temp.txt
 
 
-#appends the file firstcolumns.txt which has site name, altitude, and sample numbers for HZAR
+#appends the file firstcolumns.txt which has site name, location, and sample numbers for HZAR
 cat /Volumes/Gaston_3/hzar_simulations/drift/firstcolumns.txt temp.txt > temp2.txt
 #transpose back
 perl /Volumes/Gaston_3/hzar_simulations/drift/transpose.pl temp2.txt > temp.txt
@@ -75,7 +75,7 @@ perl /Volumes/Gaston_3/hzar_simulations/drift/transpose.pl temp.txt > temp2.txt
 cat temp2.txt mean_t.txt > temp.txt
 
 
-#appends the file firstcolumns.txt which has site name, altitude, and sample numbers for HZAR
+#appends the file firstcolumns.txt which has site name, location, and sample numbers for HZAR
 cat /Volumes/Gaston_3/hzar_simulations/drift/firstcolumns.txt temp.txt > temp2.txt
 #transpose back
 perl /Volumes/Gaston_3/hzar_simulations/drift/transpose.pl temp2.txt > temp.txt
